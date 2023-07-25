@@ -1,0 +1,1 @@
+from .degramnet import DEGramBasedModel
